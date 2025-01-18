@@ -1,0 +1,24 @@
+@media only screen and (max-width: 768px) {
+   .banner
+   {
+        width: 100vw;
+        margin-left: -20vw;
+        
+   }
+
+   .main
+   {
+        height: 25vh !important;
+   }
+
+   #Updates
+   {
+     margin-left: -18vw;
+   }
+
+   #TFD1
+   {
+     height: 150px !important;
+   }
+   
+  }
